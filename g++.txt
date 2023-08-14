@@ -1,0 +1,2 @@
+cd 10
+g++ DataGenerator.cpp Source.cpp SortAlgorithm.cpp SortAlgorithm.h Header.h Generator.h Main.cpp 
